@@ -3,6 +3,7 @@ html {
     padding: 0;
 }
 body {
+     background-image: url("All Lang.jpg");
     font-family: 'Handlee', cursive;
     font-size: 13pt;
     background-color: #efefef;
@@ -34,8 +35,25 @@ p {
     margin-bottom: 10px;
     border-radius: 10px;
 }
+#table{ 
+   border-collapse:collapse;
+   background-color: #fff;
+   padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+   color: black;
+   font-size:30px;
+   
+
+   
+   
+}
+a:hover{
+	 color:yellow;
+	 background-color: blue;
+}
 #header {
-    background-image: url("https://www.sololearn.com/Uploads/header.jpg");
+    background-image: url("python.jpg");
     background-size: cover;
 }
 #header img {
